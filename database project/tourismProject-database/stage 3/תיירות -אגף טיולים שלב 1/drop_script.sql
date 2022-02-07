@@ -1,0 +1,11 @@
+drop table belongs_to; 
+drop table invitation;
+drop table my_path;
+drop table kind;
+drop table difficulty;
+drop table guide;
+drop table employee;
+drop table client;
+drop table city;
+drop table area;
+drop table my_group;
